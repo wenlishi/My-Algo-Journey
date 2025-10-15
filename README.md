@@ -1,2 +1,2 @@
 # My Algorithmic Journey
-This repository documents my journey through the world of algorithms and data structures using LeetCode. It serves as a personal log of my problem-solving process and a knowledge base for future reference. The goal is to continuously improve my logical thinking and coding craftsmanship.
+此代码库记录了我的 LeetCode 算法与数据结构学习之旅。它不仅是我的个人解题日志，更是日后参考的知识宝库，旨在不断磨练逻辑思维，精进编程技艺。
