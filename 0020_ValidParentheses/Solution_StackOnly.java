@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Sulution_StackOnly {
+public class Solution_StackOnly {
     public boolean isValid(String s) {
         if (s.length() % 2 == 1) {
             return false;
