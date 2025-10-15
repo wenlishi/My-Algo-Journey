@@ -6,4 +6,4 @@
 
 | # | Title | Solution | Difficulty | Notes |
 |---|---|---|---|---|
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/Valid-Parentheses/) | [Java(Stackandmap)](0020-Valid-Parentheses/Solution_StackAndMap.java), [Java(Stackonly)](0020-Valid-Parentheses/Solution_StackOnly.java) | | |
+{{TABLE_CONTENT}}
