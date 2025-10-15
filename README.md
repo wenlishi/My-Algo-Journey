@@ -6,4 +6,5 @@
 
 | # | Title | Solution | Difficulty | Notes |
 |---|---|---|---|---|
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/Valid-Parentheses/) | [Java(Stackandmap)](0020-Valid-Parentheses/Solution_StackAndMap.java), [Java(Stackonly)](0020-Valid-Parentheses/Solution_StackOnly.java) | | |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/Valid-Parentheses/) | [Java(Stackandmap)](0020-Valid-Parentheses/Solution_StackAndMap.java), [Java(Stackonly)](0020-Valid-Parentheses/Solution_StackOnly.java) | e| |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/Merge-Two-Sorted-Lists/) | [Java(Iteration)](0021-Merge-Two-Sorted-Lists/Solution_Iteration.java), [Java(Recursion)](0021-Merge-Two-Sorted-Lists/Solution_Recursion.java) | e| |
