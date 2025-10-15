@@ -1,0 +1,18 @@
+{
+  "0020": {
+    "difficulty": "Easy",
+    "notes": "使用栈（Stack）是解决此问题的经典方法。遍历字符串，遇到左括号入栈，遇到右括号则与栈顶元素匹配出栈。"
+  },
+  "0021": {
+    "difficulty": "Easy",
+    "notes": "递归和迭代两种解法都很经典。"
+  },
+  "0022": {
+    "difficulty": "Medium",
+    "notes": "回溯法是解决此问题的关键，注意剪枝条件。"
+  },
+  "default": {
+    "difficulty": "N/A",
+    "notes": ""
+  }
+}
