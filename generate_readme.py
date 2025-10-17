@@ -121,7 +121,7 @@ def main():
                 problem_num = int(problem_num_str)
                 problem_title = problem_slug.replace('-', ' ').title()
                 
-                leetcode_url = f"https://leetcode.com/problems/{problem_slug}/"
+                leetcode_url = f"https://leetcode.cn/problems/{problem_slug}/"
                 problem_title_md = f"[{problem_title}]({leetcode_url})"
                 
                 solution_links_md = get_solution_files(item_name)
