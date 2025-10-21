@@ -65,6 +65,6 @@
   },
   "0069": {
     "difficulty": "Easy",
-    "notes": ""
+    "notes": "可以使用二分查找方，也可以使用牛顿迭代法。[牛顿迭代法详解](https://oi-wiki.org/math/numerical/newton/)"
   }
 }
