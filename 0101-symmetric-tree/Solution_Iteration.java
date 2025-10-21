@@ -42,11 +42,9 @@ public class Solution_Iteration {
             queue.offer(node1.right);
             queue.offer(node2.left);
 
-
         }
         // 如果循环正常结束，说明所有的对称位置的结点都是匹配的
         return true;
     }
 
-    
 }
