@@ -20,4 +20,5 @@
 | 0101 | [Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/) | [Java(Iteration)](0101-symmetric-tree/Solution_Iteration.java), [Java(Recursion)](0101-symmetric-tree/Solution_Recursion.java) | Easy | ![image-20251020105336646](https://lskypro.puber.top/i/2025/10/20/68f5a437bb933.png) 递归解法通常是深度优先（DFS）的顺序。它会沿着一条路径深入下去，连续访问的节点（父、子、孙）在内存中的位置可能更接近。迭代解法是广度优先（BFS）的顺序。它在树的各层之间“跳跃”，访问的内存地址可能不连续。 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | [Java(Soulution Bfs)](0102-binary-tree-level-order-traversal/Soulution_Bfs.java) | Medium |  |
 | 0104 | [Maximum Depth Of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | [Java(Recursion)](0104-maximum-depth-of-binary-tree/Solution_Recursion.java) | Easy |  |
+| 0136 | [Single Number](https://leetcode.cn/problems/single-number/) | [Java(Xor)](0136-single-number/Solution_Xor.java) | Easy |  |
 | 0226 | [Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/) | [Java(Dfs)](0226-invert-binary-tree/Solution_Dfs.java), [Java(Recursion)](0226-invert-binary-tree/Solution_Recursion.java) | Easy |  |
