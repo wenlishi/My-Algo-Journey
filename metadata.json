@@ -65,10 +65,10 @@
   },
   "0069": {
     "difficulty": "Easy",
-    "notes": ""
+    "notes": "可以使用二分查找方，也可以使用牛顿迭代法。[牛顿迭代法详解](https://oi-wiki.org/math/numerical/newton/)"
   },
   "0067": {
     "difficulty": "Easy",
-    "notes": "可以使用二分查找方，也可以使用牛顿迭代法。[牛顿迭代法详解](https://oi-wiki.org/math/numerical/newton/)"
+    "notes": "使用模拟法从字符串的尾部逐个相加到头部，使用StringBuilder保存相加结果，返回时候将StringBuilder反转即为最后的结果"
   }
 }
