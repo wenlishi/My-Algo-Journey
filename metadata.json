@@ -78,5 +78,9 @@
   "0035": {
     "difficulty": "Easy",
     "notes": "题目要求必须使用时间复杂度为 O(log n) 的算法，下意识想到二分查找的方法。"
+  },
+  "0045": {
+    "difficulty": "Medium",
+    "notes": ""
   }
 }
