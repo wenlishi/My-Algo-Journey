@@ -70,5 +70,9 @@
   "0067": {
     "difficulty": "Easy",
     "notes": "使用模拟法从字符串的尾部逐个相加到头部，使用StringBuilder保存相加结果，返回时候将StringBuilder反转即为最后的结果。模拟法的优点是不会遇到整数溢出的问题。"
+  },
+  "0029": {
+    "difficulty": "Medium",
+    "notes": ""
   }
 }
