@@ -35,6 +35,7 @@ public class Solution_Backtrack {
                 // 撤销选择：回溯操作
                 used[i] = false; // 恢复元素使用状态
                 path.remove(path.size() - 1); // 从路径中移除最后一个元素
+                System.out.println();
 
             }
         }
