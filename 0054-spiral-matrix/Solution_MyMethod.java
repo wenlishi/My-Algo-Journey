@@ -1,7 +1,10 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution_MyMethod {
     public List<Integer> spiralOrder(int[][] matrix) {
         // 存储方向：右，下，左，上
-        int[] directions = new int[] {0,1,2,3};
+        //int[] directions = new int[] {0,1,2,3};
         int m = matrix.length;
         int n = matrix[0].length;
         boolean[][] isVisited = new boolean[m][n];
