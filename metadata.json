@@ -97,6 +97,10 @@
   },
   "0050": {
     "difficulty": "Medium",
-    "notes": ""
+    "notes": "实现 pow(x, n)。考察快速幂算法（Exponentiation by Squaring）。关键思路：当 n 为偶数时，pow(x, n) = pow(x*x, n/2)；当 n 为奇数时，pow(x, n) = x * pow(x, n-1)。通过递归或迭代方式实现，时间复杂度从 O(n) 降到 O(log n)。注意处理 n 为负数的情况（结果取 1/pow(x, -n)）。"
+  },
+  "0054": {
+    "difficulty": "Medium",
+    "notes": "使用方向数组并标记访问过的元素，通过转向规则控制遍历。"
   }
 }
