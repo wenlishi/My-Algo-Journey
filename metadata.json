@@ -106,5 +106,9 @@
   "0061": {
     "difficulty": "Medium",
     "notes": "使用成环破环法解决，先成环，然后计算偏移量，然后在偏移后的位置破环"
+  },
+  "0063": {
+    "difficulty": "Medium",
+    "notes": ""
   }
 }
