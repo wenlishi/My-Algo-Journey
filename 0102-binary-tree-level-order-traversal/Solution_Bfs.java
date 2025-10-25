@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-public class Soulution_Bfs {
+public class Solution_Bfs {
 
     class TreeNode {
         int val;
