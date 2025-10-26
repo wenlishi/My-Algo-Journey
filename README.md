@@ -27,6 +27,7 @@
 | 0059 | [Spiral Matrix Ii](https://leetcode.cn/problems/spiral-matrix-ii/) | [Java(Simulaton)](0059-spiral-matrix-ii/Solution_Simulaton.java) | Medium |  |
 | 0061 | [Rotate List](https://leetcode.cn/problems/rotate-list/) | [Java(Cycleformationandbreakapproach)](0061-rotate-list/Solution_CycleFormationAndBreakApproach.java) | Medium | 使用成环破环法解决，先成环，然后计算偏移量，然后在偏移后的位置破环 |
 | 0063 | [Unique Paths Ii](https://leetcode.cn/problems/unique-paths-ii/) | [Java(Mymethod)](0063-unique-paths-ii/Solution_MyMethod.java) | Medium |  |
+| 0066 | [Plus One](https://leetcode.cn/problems/plus-one/) | [Java(Mymethod)](0066-plus-one/Solution_MyMethod.java) | Easy |  |
 | 0067 | [Add Binary](https://leetcode.cn/problems/add-binary/) | [Java(Bitoperation)](0067-add-binary/Solution_BitOperation.java), [Java(Simulationmethod)](0067-add-binary/Solution_SimulationMethod.java) | Easy | 使用模拟法从字符串的尾部逐个相加到头部，使用StringBuilder保存相加结果，返回时候将StringBuilder反转即为最后的结果。模拟法的优点是不会遇到整数溢出的问题。 |
 | 0069 | [Sqrtx](https://leetcode.cn/problems/sqrtx/) | [Java(Binarysearch)](0069-sqrtx/Solution_BinarySearch.java), [Java(Newtoniterationmethod)](0069-sqrtx/Solution_NewtonIterationMethod.java) | Easy | 可以使用二分查找方，也可以使用牛顿迭代法。[牛顿迭代法详解](https://oi-wiki.org/math/numerical/newton/) |
 | 0070 | [Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/) | [Java(Recursion)](0070-climbing-stairs/Solution_Recursion.java) | Easy |  |
