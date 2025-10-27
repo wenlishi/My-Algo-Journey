@@ -146,5 +146,9 @@
   "2125": {
     "difficulty": "Medium",
     "notes": "标准答案使用了函数编程的思想，使用了int cnt = (int) line.chars().filter(ch -> ch == '1').count()来统计每一行中'1'的个数，非常简洁。另一种思路是使用传统的for循环遍历字符串，遇到'1'就计数器加一。"
+  },
+  "0200": {
+    "difficulty": "Medium",
+    "notes": ""
   }
 }
