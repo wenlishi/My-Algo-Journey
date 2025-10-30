@@ -162,5 +162,9 @@
   "0040": {
     "difficulty": "Medium",
     "notes": "组合总和II，是39题的变体。关键区别：1) 每个数字只能使用一次，递归时起始索引传入i+1；2) 数组可能包含重复元素，需要额外去重处理。核心解法：排序+回溯+同层去重。去重技巧：if(i > start && candidates[i] == candidates[i-1]) continue; 确保同一层级不选择相同数字。必须排序，这是去重的前提条件。"
+  },
+  "0071": {
+    "difficulty": "Medium",
+    "notes": ""
   }
 }
