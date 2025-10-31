@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution_Stack {
     public String simplifyPath(String path) {
         List<String> parts = new ArrayList();
