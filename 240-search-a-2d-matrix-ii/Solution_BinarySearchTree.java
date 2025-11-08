@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Solution_BinarySearchTree {
-     public boolean searchMatrix(int[][] matrix, int target) {
+    public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
